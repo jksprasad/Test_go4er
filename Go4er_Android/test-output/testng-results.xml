@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20151" started-at="2019-10-12T12:56:20 IST" finished-at="2019-10-12T12:56:40 IST">
+  <suite name="Default suite" duration-ms="37903" started-at="2019-10-13T18:17:18 IST" finished-at="2019-10-13T18:17:56 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20151" started-at="2019-10-12T12:56:20 IST" finished-at="2019-10-12T12:56:40 IST">
-      <class name="com.go4er.testcases.LoginTest">
-        <test-method status="PASS" signature="lunchApp()[pri:0, instance:com.go4er.testcases.LoginTest@60285225]" name="lunchApp" is-config="true" duration-ms="22089" started-at="2019-10-12T12:55:58 IST" finished-at="2019-10-12T12:56:20 IST">
+    <test name="Default test" duration-ms="37903" started-at="2019-10-13T18:17:18 IST" finished-at="2019-10-13T18:17:56 IST">
+      <class name="com.go4er.testcases.skip_WelcomeScreensTest">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:com.go4er.testcases.skip_WelcomeScreensTest@45820e51]" name="lunchApp" is-config="true" duration-ms="21474" started-at="2019-10-13T18:16:57 IST" finished-at="2019-10-13T18:17:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lunchApp -->
-        <test-method status="PASS" signature="welcome_Screes()[pri:1, instance:com.go4er.testcases.LoginTest@60285225]" name="welcome_Screes" duration-ms="19896" started-at="2019-10-12T12:56:21 IST" finished-at="2019-10-12T12:56:40 IST">
+        <test-method status="PASS" signature="skip_Welcome()[pri:1, instance:com.go4er.testcases.skip_WelcomeScreensTest@45820e51]" name="skip_Welcome" duration-ms="37807" started-at="2019-10-13T18:17:18 IST" finished-at="2019-10-13T18:17:56 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- welcome_Screes -->
-      </class> <!-- com.go4er.testcases.LoginTest -->
+        </test-method> <!-- skip_Welcome -->
+      </class> <!-- com.go4er.testcases.skip_WelcomeScreensTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

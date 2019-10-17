@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Skip_welcome">
+<test name = "Skip and Run App">
+<classes>
+<class name = "com.go4er.testcases.skip_WelcomeScreensTest"/>
+</classes>
+
+</test>
+</suite>

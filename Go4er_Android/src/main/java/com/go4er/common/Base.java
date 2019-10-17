@@ -19,8 +19,8 @@ public class Base {
 		AndroidDriver<WebElement>  driver;
 		DesiredCapabilities cap = new DesiredCapabilities();
 		cap.setCapability("BROWSER_NAME", "Android");
-		cap.setCapability("VERSION", "8.1"); 
-		cap.setCapability("deviceName","Pixel_go4");
+		cap.setCapability("VERSION", "9.0"); 
+		cap.setCapability("deviceName","Nexus_go4");
 		cap.setCapability("platformName","Android");    
         
 		cap.setCapability("appPackage", "go4er.llc.user");  
